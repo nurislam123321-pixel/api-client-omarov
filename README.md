@@ -42,7 +42,7 @@ node server.js
 
 ## Скриншот
 
-![Страница с погодой](screenshots/01-list.png)
+![Страница с погодой](screenshots/01.png)
 
 ## Использование ИИ
 
